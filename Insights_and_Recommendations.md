@@ -48,7 +48,7 @@ The insights generated were established using pivot tables, correlation analysis
 - received more training hours; and
 - Staff invested the most work hours including overtime  hours into production.
 
-  ![image](https://github.com/user-attachments/assets/650b0718-b494-4ec6-9f9e-a67d0b11123b)
+![image](https://github.com/user-attachments/assets/650b0718-b494-4ec6-9f9e-a67d0b11123b)
 
 2. **Training is important as it likely impacts the quantity and quality of products produced. More products are produced, cost is saved whilst quality issues are reduced when training is provided to staff.**
 
