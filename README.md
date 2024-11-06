@@ -16,14 +16,6 @@ This was a **4 weeks data analysis** and it was performed on **Microsoft Excel**
 - Compare Rig Location Performance
 - Generate Actionable Recommendations
 
-
-## Steps Taken
-- **Step 1**: 
-- **Step 2**:
-- **Step 3**:
-- **Step 4**:
-- **Step 5**:
-
 ## Analysis and Recommendations
 
-View my analysis and recommendations on this project [here]()
+View my analysis and recommendations on this project [here](https://github.com/olubadero/Oil_Rig_Performance_Analysis/blob/main/Insights_and_Recommendations.md)
